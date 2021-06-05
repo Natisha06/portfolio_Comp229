@@ -1,0 +1,19 @@
+{
+  "name": "portfolio_comp229",
+  "version": "1.0.0",
+  "description": "my porfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natisha06/portfolio_Comp229.git"
+  },
+  "author": "Natisha singla 301145778",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natisha06/portfolio_Comp229/issues"
+  },
+  "homepage": "https://github.com/Natisha06/portfolio_Comp229#readme"
+}
